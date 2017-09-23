@@ -1,0 +1,22 @@
+{
+  "name": "kod_zad_17_7",
+  "version": "1.0.0",
+  "description": "example zad177",
+  "main": "config.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "albert",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
+}
